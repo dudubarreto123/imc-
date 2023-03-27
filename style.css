@@ -1,0 +1,49 @@
+* {
+    padding: auto;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 50px;
+    width: 50px;
+    background: url(https://www.dicasdetreino.com.br/wp-content/uploads/2013/01/IMC-O-que-%C3%A9-IMC-como-calcular-tabela-e-IMC-ideal.jpg);
+    background-size: 100%;
+    color: rgb(25, 0, 255);
+    font-size: 30px;
+}
+.input{
+    margin-left: 20px;
+}
+
+.button{
+    margin-left: 125px;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 5px 5px 5px;
+}
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: #03A678
+}
+div{
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+footer{
+    position:absolute;
+    bottom: 0;
+}
+
+img{
+    position: absolute;
+    width: 70px;
+    right: 90px;
+    top: 40px;
+}
